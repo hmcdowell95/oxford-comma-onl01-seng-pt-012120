@@ -4,5 +4,5 @@ def oxford_comma(array)
   elsif array.size > 2
   array.pop = g
   array.join(",") = a
-  
+  puts "#{a} and #{g}"
 end
